@@ -1,6 +1,5 @@
 ### Hi everyone, I'm Mari :shipit:
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/b8232a24691911.5698d9abdde05.gif" width="700" height="500" 
-align="right"/>
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/b8232a24691911.5698d9abdde05.gif" width="700" height="500"/>
 
 
 # 🐱 About Me
