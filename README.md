@@ -39,7 +39,7 @@
 
 ### Connect with me:
 <a href="http://t.me/marimri">
-<img src="https://www.bigbansko.com/wp-content/uploads/2016/12/img_1098.png" width="80" height="80"/>
+<img src="/img/twitter-logo-black-and-white-icon-telegram-icon-white-symbol-sign-trademark-transparent-png-2533050.png" width="60" height="60"/>
  </a>
  <a href="http://t.me/marimri">
 <img src="/img/linkedin-language-black-and-white-icon-circle-texture-white-board-clothing-apparel-transparent-png-1053150.png" width="60" height="60"/>
